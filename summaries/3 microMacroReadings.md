@@ -1,0 +1,55 @@
+## Micro/Macro Readings
+- einfache Lesbarkeit kommt von Kontext der detaillierten und komplexen Informationen
+- Sehr ungewöhnliche Designstrategie: _to clarify, add detail_
+- Panoramen, Aussichten verhelfen Leser zu Überblick, die Fähigkeit zu vergleichen und Details zu strukturieren/sortieren
+- Mikro-Informationen (zB feine Texturen in Landschaftsdarstellungen) bieten Raum für persönlichere/spezialisierte, kondensierte Visualisierungen
+- Prinzipien sind universell in menschlicher Informationsverarbeitung und damit in alltäglicher Wahrnehmung verankert, damit auf viele Datentypen anwendbar
+- Designs können sehr viele Details dartstellen, Komplexität wird durch mehrere, of hierarische Schichten kontextueller Beschriftung gegliedert
+- Daten nicht zwangsläufig alphabetisch, sondern nach Kontext gliedern (Bsp: Vergleich mehrerer wissenschaftlicher Datenreihen nicht nach Autorenname sondern Publikationsdatum; zum Vergleich, wer zuerst am nächsten war; p.39)
+- Karten:
+    - Mesh Maps: gesamte Karte in gleiche Rasterquadrate unterteilt
+        - Vorteile: 
+            - man kann spezielles Quadrat finden, sich Daten anschauen
+            - spezielles Quadrat ist leicht in größerem Kontext zu betrachten
+            - unabhängig von Änderungen in 
+    - Blot Maps / Choropleth Maps: halten sich an geografische/politische Strukturen
+        - Nachteile:
+            - Flächen sind nicht einheitlich
+            - gefärbte Flächen oft proportional zu Fläche statt dargestellter Aktivität
+            - historische Änderungen (zB in politischen Grenzen) erschweren kontinuierliche statistische Vergleiche 
+- Bsp: Vietnam Veterans Memorial:
+        - aus der Ferne: Macro -> Gefühl für 58.000 Namen
+        - aus der Nähe: Micro -> einzelne Namen, ermöglicht mitfühlen mit Einzelschicksal, Gesamtdimension tritt zurück
+        - geordnet nach Todestag
+        - Höhe steigt zur Mitte, steigert Eindruck der Menge
+        - Reflektionen auf poliertem schwarzem Granit blenden Vergangenheit und Gegenwart durch Reflektionen ineinander
+        - dreifache Funktion der Namen:
+            - an jeden Toten erinnnern
+            - einen Eintrag zur Summe hinzufügen
+            - Reihenfolge und ungefähren Todestag darstellen
+        - erzeugt persönliche Atmosphäre: kein Massentourismus sondern viele Individuen
+- graphische Darstellung von Daten übertrifft tabulare Darstellung, da Verbindungen zwischen den Daten und deren Struktur deutlich werden
+- Einfache Datenpunkte in Diagrammen sollten auch eigene Bedeutung haben (graphische Elemente sind multifunktional)
+    - (Bsp. p.46) Zahlenlänge erstzt andernfalls informationslose Balken eines Balkendiagramms
+    - (Bsp. p.46) Abfahrtseinträge geben gleichzeitig Aufschluss über Häufigkeit der Verbindung
+
+- ermöglicht Darstelliung sehr großer Informationsmengen
+- Wenn Zweck des Diagramms vergleichen/auswählen: je mehr Daten mit einem Mal erfassbar, desto besser
+- posterisierte Daten, Verteilung von Informationen auf mehrere Seiten verlassen sich auf schlechtes visuelles Gedächtnis
+- Micro/Makro Designs ermöglichen globale und lokale Vergleiche ohne den Kontext zu verlieren
+- Darstellungen mit hohem Informationsgehalt ermöglichen abgeänderte, personalisierte Weiternutzung für eigene Zwecke
+- datenreiche Darstellungen übergeben die Daten an den Beobachter, nicht an den Designer
+- Darstellungen mit geringer Datendichte bewegen den Beobachter nicht dazu sich weiter mit den Daten zu beschäftigen
+- wenig Daten in einer Darstellung senken Kredibilität
+- Es geht nicht darum, wie viel leerer Raum da ist, sondern wie er genutzt wird
+- Es geht nicht darum, wie viel Information da ist, sondern eher wie effektiv sie angeordnet wird
+- Schwer komplexe Datenzusammenhänge zu visualisieren; viel Zeit für Datensammlung, Darstellung, eigene Berechnungen, Bildbearbeitung, Produktion und Druck
+- // Side Note // ähnlich wie bei Kartographie, die nach Tufte nur von Regierungen finanziert werden kann
+- Investition kann sich auch von Kosten her lohnen, da eine Seite mit hoher Informationsdichte zig Seiten posterisierter Informationen ersetzten kann; Leser heben eine Seite mit guter Visualisierung eventuell auf, aber schmeißen 20 schlechte Seiten sicher weg
+- _Sollten Informationen nicht vereinfacht dargestellt werden?_
+    - Menge der Informationen / Details hat nichts mit der Komplexität der Darstellung zu tun
+    - _Clutter and Confusion are failures of design, not attributes of information._
+    - Oftmals ist die Visualisierung langweiliger und mehrdeutiger je einfacher und gröber sie ist
+    - Details entfernen ist persönliche Einflussnahme, nimmt Daten objektiven Kontext
+    - _simpleness is another aesthetic preference, not an information display strategy, not a guide to clarity_
+    - stattdessen: umfassende Struktur der Daten, vergleichender Kontext, Verständnis der Komplexität

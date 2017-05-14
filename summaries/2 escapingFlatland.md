@@ -1,0 +1,72 @@
+## Escaping Flatland
+- die dargestellte Welt ist, obwohl in echt drei dimensional, zwei dimensional und flach
+- Herausforderung: Kommunikation zwischen Ersteller und dem Lesenden einer Grafik muss durch diese Zweidimensionalität erfolgen
+- Ziel der Informationsvisualisierung: _Flatlands_ entkommen
+- Methoden im Kapitel versuchen:
+    - Informationsdimensionen auf flachen Oberflächen erhöhen
+    - Datendichte erhöhen
+- Bsp: Karte _Ise Shrine_ (p. 13) Änderung in Skalierung auch Änderung in der Darstellung
+- In Literatur keine einheitliche Lösung gefunden, komplexes Problem, Lösungen erfordern Kompromisse
+- Sprache scheitert an ähnlichen Problemen (-> Paul Klee p. 15)
+
+- für einfache 3D-Objekte sind Modelle geeignet (Architektur-Miniaturen, mathematische Körper), nicht für komplexere Datensätze geeignet (zB Computeranalysen von Data-Point-Clouds)
+- schwere Sünde des Informationsdesign: _Pridefully Obvious Presentation_ Aufmerksamkeit mehr auf Darstellung als auf Information zu lenken (Bsp: planetary machines p.16)
+- weitere Methode: Stereobilder (genutzt bei Landschaften, Molekülen, ...), Problem: fällt vielen Leuten schwer/scheitern ganz
+- sich wiedeholende Methoden bei allen großen Datensätzen, egal welcher Datentypen: (am Bsp. von Sonnenflecken p.18-23)
+    - einfaches Bild (Gallileo Gallilei, p.18)
+    - mehrere kleine gtrennte Bilder (zB zur Darstellung mehrerer Zeitpunkte, p.19)
+    - Mehrdimensionalität, Datenkompression (sowohl 3D alsauch Mehrdimensionalität durch mehrere Achsen, p.21-22)
+    - Micro/Macro Darstellungen mit Kombinationen verschiedener Darstellungen/Details/... (p. 23)
+- Bsp: Java Eisenbahnnnetz (p. 24) Vertikale genutzt um parallele Sequenzen durchgängiger Daten aufzureihen
+- im _Flatland_ muss jede Möglichkeit genutzt werden weitere Daten über bereits existierende Dimensionen zu verteilen
+- Redundanz von symetrischen Informationen sollte meist für neue Informationen genutzt werden
+    - GegenBsp: _Tanzsschritte_ (p.27)
+- Darstellungen sollten immer zweckdienlich sein (Abstrakt vs. real) (Bewegungen beispielsweise eher durch abstrakte Symbole als durch Zeichnungen, hilft Tänzer)
+- Wiederverwenung von Design hilft Leser sich auf Unterschiede in Daten zu konzentrieren, muss nicht jedes mal Diagram neu verstehen (Bsp: p.38 unten)
+- Logisch strukturierte Anordnung (zB in einer Matrix) hilft Leser Daten in Kontext zu bringen (Bsp: p.38 unten)
+- Vorteil von Grafiken: ermöglichen Erfassen der Daten in eigener Geschwindigkeit und Reihenfolge und nicht (wie in Textform) schon gewertet
+- Man sollte sowohl einen Sinn für den Durchschnitt alsauch für die eigentliche Variation in den Datensätzen geben (Bsp. p.32,22,23)
+- Grafiken mit vielen Daten vermitteln quantitavtive Tiefe und statistische Integrität; emanzipierte daten-dünne Designs provozieren Misstrauen über die Qualität der Messungen und Analysen
+- kleine Vielfache (nicht quantitativ sondern von der Größe her), egal ob in Tabellen oder als kleine Grafiken, ermöglichen sehr einfache Vergleiche (Unterschiede, Gemeinsamkeiten, Auswahl), weil sie mit einem Blick erfasst werden und nicht auf mehreren Seiten mit Bildern, die man sich merken muss, dargstellt werden müssen (p.33 oben)
+
+- Essentielle Ziele der Informationsvisualisierung:
+    - _escaping this flatland_
+    - _enriching the density of data displays_
+- es wird zunehmend schwerer, da Bindungen zu 3D-Welt mit zunehmender Abstraktion der Daten schwächer werden und die Anzahl der untersuchten Dimensionen mit komplexeren Daten zunimmt
+- Die gesamte Geschichte der Informationsdarstellung und statistischer Graphiken ist ein einziger Fortschritt von Methoden um die Informationsdichte, -komplexität, -dimensionalität und manchmal sogar -schönheit zu verbessern
+- folgende Kapitel erläutern einzelne Methoden:
+    - micro/macro readings of detail and panorama
+    - layering and separation of data
+    - multiplying of images
+    - color
+    - narratives of space and time
+- Fokus auf Daten selbst legen und nicht auf Datencontainer
+- Design sollte so gut sein, dass es unsichtbar wird
+- immer mehrere Dimensionen betrachten, um Daten Kontext zu geben (Bsp. p.34)
+- Ornamente sind unnötig, um Daten interessant zu machen (nicht einmal in kosmetischer Form)
+- _If the numbers are boring, then you've got the wrong numbers._ (p.34)
+- _credibility vanishes in clouds of chartjunk; who would trust a chart that looks like a video game?_ (p.34)
+- niemals so designen als wäre Leser begriffsstutzig/uninteressiert, eher gegenteilig. Nutzer meist besser informiert als Designer der Graphik
+- Leser evt beschäftig oder in Eile, aber niemals dumm
+- Klarheit und Einfachkeit ganzes Gegenteil zu _simple-mindedness_
+- _Disrespect for the audience will leak through, damaging communication._ (p.34)
+
+- Qualitätsstandards: (p.35)
+    - werden von hoch qualitativen Karten gesetzt:
+        - viele Details
+        - mehrere Ebenen enger Schrift mit Übersichten
+        - viele Daten
+    - Im Gegensatz dazu sieht der _chartjunk_ eher aus wie Poster als Karten
+    - Poster:
+        - gemacht um aus großer Entfernung gelesen zu werden
+        - starke Bilder
+        - große Schrift
+        - geringe Datendichte
+    - Auch wenn PosterDesign keine gute Grundlage, dennoch Gemeinsamkeiten:
+        - Typographie
+        - Objekt Darstellung
+        - Layout
+        - Farben
+        - Herstellungstechniken
+        - visuelle Prinzipien, die Kritik und Revision anspornen
+    - zu oft mit der _Ideologie des ChartJunk und der data posteriazation_ einhergehend
