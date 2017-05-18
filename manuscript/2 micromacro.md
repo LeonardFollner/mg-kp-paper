@@ -1,0 +1,13 @@
+## Micro/Macro-Readings
+In dem Kapitel Micro/Macro-Readings beschätigt Tufte damit wie Zusammenhänge in großen Datensätzen dargestellt werden können. Dabei beschreibt er eine eher unübliche Designstrategie: _to clarify, add detail_
+
+Während Panoramen es dem Leser ermöglichen sich einen Überblick zu verschaffen und globale Strukturen zu erkennen, müssen gelichzeitig Mirko-Informationen Detailinformationen liefern. Eine einfache Lesbarkeit muss durch die Synthese dieser beiden Ebenen geschaffen werden. Einfache Lesbarkeit ergibt sich aus dem Kontext detaillierter und komplexer Informationen. 
+
+Am Beispiel dieser Karte der Bevölkerungsdichte von Tokyo wird dies deutlich. Es handelt sich dabei um eine so genannte _Mesh Map_. Im Gegensatz zu _Chlorpleth Maps_, die sich an geografische oder politische Strukturen halten, sind _Mesh Maps_ in gleichmäßige Rasterquadrate unterteilt. Somit erschließt sich aus der Gesamtheit aller aller einzelnen Datenpunkte die Gesamtstruktur. Gleichzeitig ist aber möglich die Bevölkerungsdichte einer sehr kleinen Fläche einzeln und im größeren Kontext zu betrachten. Somit trägt jeder einzelne Datenpunkt zu der Gesamtdarstellung bei. 
+
+Das gleiche gilt für das _Vietnam Veterans Memorial_ in Washington. Hier sind die einzelnen Datenpunkte die Namen der gefallenen Soldaten. In einer Micro-Ansicht handelt es sich um Detailansichten. Man kann mit dem Einzelschicksal mitfühlen. Die Gesamtdimension wird erst aus einiger Entfernung sichtbar. Dann fügen sich die einzelnen Namen zu einer großen Menge zusammen und stellen das Gesamtausmaß dar. Auch hier funktioniert jeder einzelne Name als Datenpunkt wieder als Teil der Gesamtdarstellung. 
+Dabei sind die Einträge nicht alphapetisch sortiert, sondern nach dem Todestag. Jeder Name liefert also dreierlei Information: Er erinnert an den einzelnen Toten, er trägt einen Punkt zur Gesamtsumme bei und er gibt Aufschluss über den ungefähren Todeszeitpunkt des Soldaten. 
+Diese Mehrdimensionalität eines jeden Datenpunktes ist wichtig, um jedem einzelnen Datenpunkt einen geeigneten Kontext zu geben und vergleiche in verschiedenen Dimensionen zu ermöglichen. Außerdem ist die Anordnung der Daten in einer sinnvollen Reihenfolge ausgesprochen wichtig. Eine alphabetische Anordnung hätte in diesem Fall zu dem Eindruck eines Nachschlagewerkes geführt.
+
+Aus diesen Beispielen lassen sich prinzipielle Methoden ableiten. 
+Bei Diagrammen deren primärer Zweck der Vergleich ist, sollten möglichst viele Daten mit einem Blick erfassbar sein. Gleichzeitig muss jeder Datenpunkt multifunktional sein. Er sollte also immer Daten darstellen und zum Gesamtbild beitragen. Dabei übertrifft eine grafische Darstellung immer eine tabulare Form, da mehr Daten erfasst und verglichen werden können.
