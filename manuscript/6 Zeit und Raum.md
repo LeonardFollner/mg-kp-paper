@@ -1,0 +1,9 @@
+##6. Zeit und Raum
+
+Tufte zeigt in diesem Kapitel die Grenzen der Informationsvisualisierung auf. In den folgenden Beispielen werden Kompromisse und Lösungsansätze für besonders schwer in _flatland_ zu konvertierende Sachverhalte aufgezeigt.
+
+Bahnen in mehrdimensionalen Räumen, kombiniert mit zeitlichen Veränderungen, stellen wohl die größte Herausforderung in der Informationsvisualisierung dar. Dennoch haben sich bereits viele Menschen daran gewagt, denn zum Beispiel astronomische Zusammenhänge, Schritte auf einer Tanzfläche oder besonders alltäglich: Fahrpläne, bergen dieses Problem der Veränderung von Raum und Zeit mit Überlagerungen und Überschneidungen.
+Die größte Schwierigkeit besteht in diesen Fällen darin, dass man die Zeit nicht einfach auf eine Achse auftragen kann und das sich verschiedene Objekte gleichzeitig mit verschiedenen Geschwindigkeiten bewegen. Auch Rotationen sind ein Problem, für dass es sehr verschiedene 
+Für das Beispiel der Planetenbewegung in unserem Sonnensystem gibt den folgenden Lösungsansatz. Anstelle eines dreidimensionalen Raums wird der Raum auf eine einzige Dimension heruntergebrochen. Auf der anderen Achse wurde ausgehend von immer höher frequenten Einzelzuständen erst in Tabellenform, dann kontinuierlich die Zeit aufgetragen. Dreidimensionale Zusammenhänge können an der Grafik nicht abgelesen werden. So wurde ein Kompromiss zwischen Komplexität der übermittelten Daten und Übersichtlichkeit geschaffen.  
+
+Ebenfalls schwierig ist der Umgang mit begrenztem Platz. Dürfen Grafiken nur eine bestimmte Größe haben, gibt es verschiedene Strategien damit umzugehen. Balkendiagramme können umgeschlagen werden und die Peaks von Kurven können ähnlich eines Oktavensprungs in der Musik im unteren Bereich des Diagramms weitergeführt werden. In jedem Fall werden dabei aber massive Abstriche an der Vergleichbarkeit der Werte gemacht.
